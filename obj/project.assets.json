@@ -1,36 +1,38 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net6.0": []
   },
   "packageFolders": {
-    "/home/rvs/.nuget/packages/": {}
+    "C:\\Users\\rvsfara\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/run/media/rvs/dados/cursos/lang/c_sharp/workspace/csharpOOCurso/csharpOOCurso.csproj",
+      "projectUniqueName": "F:\\cursos\\lang\\c_sharp\\workspace\\csharpOOCurso\\csharpOOCurso.csproj",
       "projectName": "csharpOOCurso",
-      "projectPath": "/run/media/rvs/dados/cursos/lang/c_sharp/workspace/csharpOOCurso/csharpOOCurso.csproj",
-      "packagesPath": "/home/rvs/.nuget/packages/",
-      "outputPath": "/run/media/rvs/dados/cursos/lang/c_sharp/workspace/csharpOOCurso/obj/",
+      "projectPath": "F:\\cursos\\lang\\c_sharp\\workspace\\csharpOOCurso\\csharpOOCurso.csproj",
+      "packagesPath": "C:\\Users\\rvsfara\\.nuget\\packages\\",
+      "outputPath": "F:\\cursos\\lang\\c_sharp\\workspace\\csharpOOCurso\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/rvs/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\rvsfara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -41,8 +43,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

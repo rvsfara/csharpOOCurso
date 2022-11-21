@@ -1,0 +1,15 @@
+F:\cursos\lang\c_sharp\workspace\csharpOOCurso\bin\Debug\net6.0\csharpOOCurso.exe
+F:\cursos\lang\c_sharp\workspace\csharpOOCurso\bin\Debug\net6.0\csharpOOCurso.deps.json
+F:\cursos\lang\c_sharp\workspace\csharpOOCurso\bin\Debug\net6.0\csharpOOCurso.runtimeconfig.json
+F:\cursos\lang\c_sharp\workspace\csharpOOCurso\bin\Debug\net6.0\csharpOOCurso.dll
+F:\cursos\lang\c_sharp\workspace\csharpOOCurso\bin\Debug\net6.0\csharpOOCurso.pdb
+F:\cursos\lang\c_sharp\workspace\csharpOOCurso\obj\Debug\net6.0\csharpOOCurso.csproj.AssemblyReference.cache
+F:\cursos\lang\c_sharp\workspace\csharpOOCurso\obj\Debug\net6.0\csharpOOCurso.GeneratedMSBuildEditorConfig.editorconfig
+F:\cursos\lang\c_sharp\workspace\csharpOOCurso\obj\Debug\net6.0\csharpOOCurso.AssemblyInfoInputs.cache
+F:\cursos\lang\c_sharp\workspace\csharpOOCurso\obj\Debug\net6.0\csharpOOCurso.AssemblyInfo.cs
+F:\cursos\lang\c_sharp\workspace\csharpOOCurso\obj\Debug\net6.0\csharpOOCurso.csproj.CoreCompileInputs.cache
+F:\cursos\lang\c_sharp\workspace\csharpOOCurso\obj\Debug\net6.0\csharpOOCurso.dll
+F:\cursos\lang\c_sharp\workspace\csharpOOCurso\obj\Debug\net6.0\refint\csharpOOCurso.dll
+F:\cursos\lang\c_sharp\workspace\csharpOOCurso\obj\Debug\net6.0\csharpOOCurso.pdb
+F:\cursos\lang\c_sharp\workspace\csharpOOCurso\obj\Debug\net6.0\csharpOOCurso.genruntimeconfig.cache
+F:\cursos\lang\c_sharp\workspace\csharpOOCurso\obj\Debug\net6.0\ref\csharpOOCurso.dll
