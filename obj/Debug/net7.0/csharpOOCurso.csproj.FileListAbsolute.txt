@@ -1,0 +1,15 @@
+/run/media/rvs/dados/cursos/lang/c_sharp/workspace/csharpOOCurso/bin/Debug/net7.0/csharpOOCurso
+/run/media/rvs/dados/cursos/lang/c_sharp/workspace/csharpOOCurso/bin/Debug/net7.0/csharpOOCurso.deps.json
+/run/media/rvs/dados/cursos/lang/c_sharp/workspace/csharpOOCurso/bin/Debug/net7.0/csharpOOCurso.runtimeconfig.json
+/run/media/rvs/dados/cursos/lang/c_sharp/workspace/csharpOOCurso/bin/Debug/net7.0/csharpOOCurso.dll
+/run/media/rvs/dados/cursos/lang/c_sharp/workspace/csharpOOCurso/bin/Debug/net7.0/csharpOOCurso.pdb
+/run/media/rvs/dados/cursos/lang/c_sharp/workspace/csharpOOCurso/obj/Debug/net7.0/csharpOOCurso.csproj.AssemblyReference.cache
+/run/media/rvs/dados/cursos/lang/c_sharp/workspace/csharpOOCurso/obj/Debug/net7.0/csharpOOCurso.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/rvs/dados/cursos/lang/c_sharp/workspace/csharpOOCurso/obj/Debug/net7.0/csharpOOCurso.AssemblyInfoInputs.cache
+/run/media/rvs/dados/cursos/lang/c_sharp/workspace/csharpOOCurso/obj/Debug/net7.0/csharpOOCurso.AssemblyInfo.cs
+/run/media/rvs/dados/cursos/lang/c_sharp/workspace/csharpOOCurso/obj/Debug/net7.0/csharpOOCurso.csproj.CoreCompileInputs.cache
+/run/media/rvs/dados/cursos/lang/c_sharp/workspace/csharpOOCurso/obj/Debug/net7.0/csharpOOCurso.dll
+/run/media/rvs/dados/cursos/lang/c_sharp/workspace/csharpOOCurso/obj/Debug/net7.0/refint/csharpOOCurso.dll
+/run/media/rvs/dados/cursos/lang/c_sharp/workspace/csharpOOCurso/obj/Debug/net7.0/csharpOOCurso.pdb
+/run/media/rvs/dados/cursos/lang/c_sharp/workspace/csharpOOCurso/obj/Debug/net7.0/csharpOOCurso.genruntimeconfig.cache
+/run/media/rvs/dados/cursos/lang/c_sharp/workspace/csharpOOCurso/obj/Debug/net7.0/ref/csharpOOCurso.dll
